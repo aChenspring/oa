@@ -6,3 +6,5 @@ asdoa test project
 3.百度编辑器调用
 4，识别按键
 5，ctrl shift alt 组合多选
+Jquery api,
+http://jquery.cuishifeng.cn/
